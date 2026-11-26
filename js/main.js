@@ -5,12 +5,20 @@
 
 const works = [
   {
-    name: "シューティングゲーム",
+    name: "シューティングゲーム・初期版",
     student: "小山さん",
     category: "ゲーム",
     description: "敵を倒して高得点を目指すゲームです。",
     icon: "🚀",
-    url: "./works/koyama/"
+    url: "./works/koyama/prototype/"
+  },
+  {
+    name: "シューティングゲーム・完成版",
+    student: "小山さん",
+    category: "ゲーム",
+    description: "敵を倒して高得点を目指すゲームです。",
+    icon: "🚀",
+    url: "./works/koyama/finished/"
   },
   {
     name: "4択クイズ",
