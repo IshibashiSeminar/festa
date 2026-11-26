@@ -10,7 +10,7 @@ const works = [
     category: "ゲーム",
     description: "敵を倒して高得点を目指すゲームです。",
     icon: "🚀",
-    url: "./works/student01/"
+    url: "./works/koyama/"
   },
   {
     name: "4択クイズ",
